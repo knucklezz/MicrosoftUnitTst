@@ -10,6 +10,7 @@ namespace MicrosoftUnitTest
     {
         static void Main(string[] args)
         {
+
         }
     }
 }
